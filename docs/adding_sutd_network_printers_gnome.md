@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Adding SUTD Network Printers on Ubuntu(Gnome)"
 permalink: /adding_sutd_network_printers_gnome/
 ---

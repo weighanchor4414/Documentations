@@ -27,7 +27,7 @@ github_username:  weighanchor4414
 markdown: kramdown
 
 # Build settings
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
