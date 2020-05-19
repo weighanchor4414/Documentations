@@ -22,8 +22,7 @@ title: Documentation
 email: none@none.none
 description: >- # this means to ignore newlines until "baseurl:"
   Documentation for various things
-baseurl: "/documentation" # the subpath of your site, e.g. /blog
-url: "https://www.weighanchor.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.weighanchor.xyz/Documentations" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  weighanchor4414
 markdown: kramdown
 
