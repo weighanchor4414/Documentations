@@ -6,15 +6,15 @@ use_mathjax: True
 ---
 ### Notation
 
-Vectors are usually represented in this manner $$\vec{AB}$$
+Vectors are usually represented in this manner $$\overrightarrow{AB}$$
 
 ### Representation
 
-Coordinate representation of vectors $$\vec{AB}=(x,y)$$
+Coordinate representation of vectors $$\overrightarrow{AB}=(x,y)$$
 
 Matrix representation of vectors:
-+ Column vector $$\vec{AB}=\begin{bmatrix} x \\ y \end{bmatrix}$$
-+ Row Vector $$\vec{AB}=\begin{bmatrix} x & y \end{bmatrix}$$
++ Column vector $$\overrightarrow{AB}=\begin{bmatrix} x \\ y \end{bmatrix}$$
++ Row Vector $$\overrightarrow{AB}=\begin{bmatrix} x & y \end{bmatrix}$$
 
 ### Special types of Vectors
 
@@ -30,7 +30,7 @@ Standard Unit Vector:
 Addition and Subtraction $$\begin{bmatrix} x_1 \\ y_1 \end{bmatrix} \pm \begin{bmatrix} x_2 \\ y_2 \end{bmatrix} = \begin{bmatrix} x_1 \pm x_2 \\ y_1 \pm y_2\end{bmatrix}$$
 + Resultant vector is the vector if the 2 vectors were placed end to tip
 
-Scalar Multiplication $$c\vec{AB}=c\begin{bmatrix} x \\ y \end{bmatrix}=\begin{bmatrix} cx \\ cy \end{bmatrix}$$
+Scalar Multiplication $$c\overrightarrow{AB}=c\begin{bmatrix} x \\ y \end{bmatrix}=\begin{bmatrix} cx \\ cy \end{bmatrix}$$
 + Stretches the vector in the direction it points by a factor of $$c$$
 
 Dot Product $$\vec{u} \cdot \vec{v} = \begin{bmatrix} u_1 \\ u_2 \\ \vdots  \\ u_n \end{bmatrix} \cdot \begin{bmatrix} v_1 \\ v_2 \\ \vdots  \\ v_n \end{bmatrix} = u_1v_1 + u_2v_2 + \cdots + u_nv_n = \|\vec{u}\| \|\vec{v}\|\cos{\theta}$$
